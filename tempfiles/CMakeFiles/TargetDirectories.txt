@@ -1,0 +1,3 @@
+/home/ubuntu1/dpks_lab2/tempfiles/CMakeFiles/rebuild_cache.dir
+/home/ubuntu1/dpks_lab2/tempfiles/CMakeFiles/lab2.dir
+/home/ubuntu1/dpks_lab2/tempfiles/CMakeFiles/edit_cache.dir
